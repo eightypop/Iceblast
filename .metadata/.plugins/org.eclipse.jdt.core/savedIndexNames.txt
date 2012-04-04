@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+/Users/whatknight/Projects/Iceblast/.metadata/.plugins/org.eclipse.jdt.core
-3451737061.index
